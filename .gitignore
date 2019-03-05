@@ -1,0 +1,6 @@
+#文件夹
+node_modules/
+
+
+#压缩包
+node_modules.tar.gz
